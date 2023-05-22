@@ -1,5 +1,5 @@
 # Dictionary-Searching
-Dictionary searching program for specific word formats 
+Dictionary searching program for specific word formats usign multithreading
 
 Searches for words within a dictionary in specified formats via command line. 
 
